@@ -1,5 +1,13 @@
 body{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+    background-color: #fff;
+}
+header{
+    background-color: aqua;
+    padding: 2rem;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+main{
+    background-color: rgb(red, green, blue);
 }
